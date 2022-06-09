@@ -1,7 +1,7 @@
 # Pokemon App -**Pokedex**
 
 Created an app using \*\*HTML, CSS and JS.
-Data has been loaded from external [API](https://pokeapi.co/api/v2/pokemon)
+Data has been loaded from external API (https://pokeapi.co/api/v2/pokemon)
 
 ## Results
 
